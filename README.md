@@ -1,7 +1,7 @@
-# 2020-scipy-india
+# PySAL Workshop: 2020-scipy-india
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/2020-scipy-india/main?urlpath=lab)
-main
+
 Two-hour workshop on spatial data analysis with PySAL
 
 <p align="center">
