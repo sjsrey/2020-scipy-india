@@ -36,7 +36,7 @@ If you are familiar with GitHub, you should clone or fork this GitHub repository
 git clone https://github.com/sjsrey/2020-scipy-india.git
 ```
 
-If you are not using git, you can grab the workshop materials as a zip file by pointing your browser to (https://github.com/sjsrey/2020-scipy-india.git) and clicking on the green _Clone or download_ button in the upper right.
+If you are not using git, you can grab the workshop materials as a zip file by pointing your browser to (https://github.com/sjsrey/2020-scipy-india.git) and clicking on the green _Code_ button in the upper right.
 
 ![download](figs/readmefigs/download.png)
 
