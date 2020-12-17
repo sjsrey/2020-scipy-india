@@ -1,0 +1,33 @@
+name: 2020-scipy-india
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python =3.7
+  - mamba
+  - bokeh
+  - pip
+  - geopandas
+  - descartes
+  - folium
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - jupyterlab
+  - pysal
+  - nbconvert
+  - networkx
+  - palettable
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - hvplot
+  - holoviews
+  - geoviews
+  - watermark
+  - rasterio
+  - descartes
+  - folium
+  - cenpy
+  - pip:
+    - contextily
